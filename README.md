@@ -3,8 +3,8 @@
 Me chamo Thalis Freitas e sou desenvolvedora full stack!
 
 <div>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thalis-freitas&show_icons=true&theme=dark">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thalis-freitas&layout=compact&theme=dark">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thalis-freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalis-freitas&layout=compact&langs_count=10&theme=dark">
 </div>
 
 <br>
