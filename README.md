@@ -13,9 +13,10 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
   <img width="40" height="30" align="center" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="30" align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="30" align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="45" height="35" align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" height="30" align="center" alt="vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img width="40" height="30" align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="30" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" height="35" align="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="40" height="30" align="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width="40" height="30" align="center" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img width="40" height="30" align="center" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
   <img width="40" height="30" align="center" alt="rspec" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
@@ -43,7 +44,7 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 
 ## **𝗦𝗸𝗶𝗹𝗹𝘀**
 
-| **𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀** | **𝗧𝗲𝘀𝘁𝘀** | **𝗔𝗴𝗶𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀** | **𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲𝘀** |
+| **SQL (𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀)** | **𝗧𝗲𝘀𝘁𝘀** | **𝗔𝗴𝗶𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀** | **𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲𝘀** |
 | ------- | -------- | ------- | -------- |
 | SQLite | RSpec | XP (Extreme Programming) | Git |
 | PostgreSQL | Capybara | Scrum | Docker |
@@ -52,7 +53,7 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 | ------- | -------- |
 | HTTP Requests͏͏͏͏ | Ruby |
 | JSON | Rails |
-| REST API | SQL |
-| HTML | Javascript |
+| REST API | JavaScript |
+| HTML | Vue.js |
 | CSS | Bootstrap |
 
