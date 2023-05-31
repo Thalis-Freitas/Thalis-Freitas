@@ -1,7 +1,9 @@
+<div align="center">
+  
 ### Olá 👋
 
 Me chamo Thalis Freitas e sou desenvolvedora full stack!
-
+  
 <div>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thalis-freitas&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalis-freitas&layout=compact&langs_count=10&theme=merko">
@@ -17,7 +19,6 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
   <img width="40" height="30" align="center" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="40" height="30" align="center" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="30" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" height="30" align="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width="40" height="30" align="center" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img width="40" height="30" align="center" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
       <img width="40" height="30" align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -25,7 +26,7 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
   
   <img width="40" height="30" align="center" alt="rspec" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
   <img width="40" height="30" align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="40" height="30" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="40" height="30" align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
     <img width="40" height="30" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="40" height="30" align="center" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
@@ -45,15 +46,11 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 
 ## **𝗦𝗸𝗶𝗹𝗹𝘀**
 
-<div >
-
 | **SQL (𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀)** | **𝗧𝗲𝘀𝘁𝘀** |
 | ------- | -------- |
 | MySQL | RSpec |
 | PostgreSQL | Capybara |
 | SQLite | PHPUnit |
-
-</div>
   
 | **𝗪𝗲𝗯** | **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴** |
 | ------- | -------- |
@@ -68,3 +65,5 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 | ------- | -------- |
 | XP (Extreme Programming) | Git |
 | Scrum | Docker |
+  
+</div>
