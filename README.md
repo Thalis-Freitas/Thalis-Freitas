@@ -33,7 +33,7 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 <br>
 
 <div>
-  <a href="https://www.linkedin.com/in/thalis-freitas-b65047140/" target="blank">
+  <a href="https://www.linkedin.com/in/thalis-freitas/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
   </a>
   <a href=mailto:"ofthalis@gmail.com">
