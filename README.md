@@ -46,11 +46,11 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 
 ## **𝗦𝗸𝗶𝗹𝗹𝘀**
 
-| **SQL (𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀)** | **𝗧𝗲𝘀𝘁𝘀** |
-| ------- | -------- |
-| MySQL | RSpec |
-| PostgreSQL | Capybara |
-| SQLite | PHPUnit |
+| **𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀** | **𝗧𝗲𝘀𝘁𝘀** | **𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲𝘀** |
+| ------- | -------- | -------- |
+| MySQL | RSpec | Git |
+| PostgreSQL | Capybara | Docker |
+| SQLite | PHPUnit | Linux |
   
 | **𝗪𝗲𝗯** | **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴** |
 | ------- | -------- |
@@ -61,9 +61,9 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
 | Tailwind CSS | JavaScript |
 | Bootstrap | Vue.js |
 
-| **𝗔𝗴𝗶𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀** | **𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲𝘀** |
-| ------- | -------- |
-| XP (Extreme Programming) | Git |
-| Scrum | Docker |
+| **𝗔𝗴𝗶𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀** |
+| ------- |
+| XP (Extreme Programming) |
+| Scrum |
   
 </div>
