@@ -21,13 +21,13 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
   <img width="40" height="30" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="40" height="30" align="center" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img width="40" height="30" align="center" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-      <img width="40" height="30" align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="40" height="30" align="center" alt="laravel" src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" />
+  <img width="40" height="30" align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width="40" height="30" align="center" alt="laravel" src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" />
   
   <img width="40" height="30" align="center" alt="rspec" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
   <img width="40" height="30" align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="40" height="30" align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img width="40" height="30" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="40" height="30" align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" height="30" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="40" height="30" align="center" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 <br>
@@ -38,9 +38,6 @@ Me chamo Thalis Freitas e sou desenvolvedora full stack!
   </a>
   <a href=mailto:"ofthalis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://wa.me/+5571992540715" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank">
   </a>
 </div>
 
