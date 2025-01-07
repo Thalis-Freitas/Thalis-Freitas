@@ -2,7 +2,7 @@
   
 ### Olá 👋
 
-Me chamo Thalis Freitas e sou desenvolvedora full stack!
+Me chamo Thalis Freitas e sou desenvolvedora!
   
 <div>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thalis-freitas&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
